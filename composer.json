@@ -1,6 +1,6 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "app/dsv",
+    "description": "App para inciar con el modelo DSV para el curso de ingenieria de softwares",
     "type": "project",
     "config": {
         "platform-check": false
